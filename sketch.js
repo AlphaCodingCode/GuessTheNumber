@@ -13,8 +13,3 @@ function draw() {
     alert("Nice to meet you " + name);
     noLoop();
 }
-
-
-function mouseClicked() {
-    noLoop();
-}
